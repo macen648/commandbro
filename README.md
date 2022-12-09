@@ -9,7 +9,7 @@ commandbro is built for a personal use case. I recomend the use of [Commander](h
  
 ## Example Usage
 ```js
-const CLI = require('simple-node-cli-dev')
+import CLI from 'simple-node-cli-dev'
 const app = new CLI()
  
 app.command('test')
