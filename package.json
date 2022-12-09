@@ -1,0 +1,10 @@
+{
+  "name": "simple-node-cli-dev",
+  "version": "0.0.1",
+  "description": "A simple package for handling cli commands and arguments",
+  "main": "index.js",
+  "keywords": ["simple", "node", "cli"],
+  "author": "Macen",
+  "license": "MIT",
+  "type": "module"
+}
